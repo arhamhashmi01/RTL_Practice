@@ -1,0 +1,4 @@
+${CORE_ROOT}/tb/ram8x72_tb.v
+${CORE_ROOT}/src/dff_ram.v
+${CORE_ROOT}/src/dff_ram8x72.v
+
